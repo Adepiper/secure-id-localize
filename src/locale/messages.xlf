@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="3492007542396725315" datatype="html">
+        <source>Welcome</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5107917960796689684" datatype="html">
+        <source>Angular on twitter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="84878541724614746" datatype="html">
+        <source>Rocket Ship</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="702273782248450975" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ title }}"/> app is running!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6130018892961240274" datatype="html">
+        <source>Rocket Ship Smoke</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2446117790692479672" datatype="html">
+        <source>Resources</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4274046789977098738" datatype="html">
+        <source>Here are some links to help you get started:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4686588615295148276" datatype="html">
+        <source>Learn Angular</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5474830355021798286" datatype="html">
+        <source>CLI Documentation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="575617949774434271" datatype="html">
+        <source>Angular Material</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">213</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">332</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8792963811675156937" datatype="html">
+        <source>Angular Blog</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">242</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3015030205107423892" datatype="html">
+        <source>Angular DevTools</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">281</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2869948436884924902" datatype="html">
+        <source>Next Steps</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">295</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5363244516442434045" datatype="html">
+        <source>What do you want to do next with your app?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">296</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4104801088774801897" datatype="html">
+        <source>New Component</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">315</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3405454537683641096" datatype="html">
+        <source>Add PWA Support</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">349</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7320369208583772821" datatype="html">
+        <source>Add Dependency</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">366</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="524939895445988958" datatype="html">
+        <source>Run and Watch Tests</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">383</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4556682662449756686" datatype="html">
+        <source>Build for Production</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">400</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3309920273452873703" datatype="html">
+        <source>Meetup Logo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">429</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="815042010024477203" datatype="html">
+        <source>Discord Logo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">452</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="885778164033136288" datatype="html">
+        <source> Love Angular?  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">465</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1282715874118045579" datatype="html">
+        <source> Give our repo a star. <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;github-star-badge&quot;&gt;"/><x id="START_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;svg
+          class=&quot;material-icons&quot;
+          xmlns=&quot;http://www.w3.org/2000/svg&quot;
+          width=&quot;24&quot;
+          height=&quot;24&quot;
+          viewBox=&quot;0 0 24 24&quot;
+        &gt;"/><x id="START_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot; /&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path
+            d=&quot;M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z&quot;
+          /&gt;"/><x id="START_TAG__SVG_PATH_1" ctype="x-_svg_path_1" equiv-text="&lt;path
+            d=&quot;M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z&quot;
+          /&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path
+            d=&quot;M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z&quot;
+          /&gt;"/><x id="CLOSE_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;/svg&gt;"/> Star <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">472,488</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2105645639697477287" datatype="html">
+        <source>Gray Clouds Background</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">514</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1695346065761094218" datatype="html">
+        <source>secure-id-localize</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
